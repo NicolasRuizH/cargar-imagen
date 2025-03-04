@@ -1,1 +1,1 @@
-![Texto alternativo](./img/Captura.PNGpng)
+![imagen de carga](./img/Captura.PNG)
